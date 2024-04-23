@@ -38,4 +38,4 @@ Ready to explore the world of computer science beyond the classroom? Start by ch
 
 Happy learning!
 
-*UBC CSSS
+*UBC CSSS*
